@@ -1,0 +1,23 @@
+{
+  "name": "seleksi-tim-laboratorium-programming-2020-tahap-iia-frontend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "vue": "vue"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidkarelh/Seleksi-Tim-Laboratorium-Programming-2020-Tahap-IIA-Frontend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidkarelh/Seleksi-Tim-Laboratorium-Programming-2020-Tahap-IIA-Frontend/issues"
+  },
+  "homepage": "https://github.com/davidkarelh/Seleksi-Tim-Laboratorium-Programming-2020-Tahap-IIA-Frontend#readme",
+  "dependencies": {
+    "@vue/cli": "^5.0.8"
+  }
+}
